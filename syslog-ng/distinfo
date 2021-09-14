@@ -1,0 +1,9 @@
+$NetBSD$
+
+SHA1 (syslog-ng-3.34.1.tar.gz) = b0c02f7ca30d6b29722630c7c62961f1941c886f
+RMD160 (syslog-ng-3.34.1.tar.gz) = 2e8759268de8a57d631eab7d6ea3577ad5feb401
+SHA512 (syslog-ng-3.34.1.tar.gz) = f4df871f780b2e55e847d3ac108d0647659cac2493180d29436f04a4b75d38b90aba8adcd38f6337dce8f69d6aba9ff33fd3d8dc0f86021a29f60a21747e9a10
+Size (syslog-ng-3.34.1.tar.gz) = 5903489 bytes
+SHA1 (patch-ac) = 7d48f689b6ff69c68697baf729fba8be9aec5ce8
+SHA1 (patch-configure) = 2d8ef2285de44de016f44e51be47cd4c1178dfdb
+SHA1 (patch-lib_signal-handler.c) = 29a32299176eb4418f9a117b79f1f50e47fb763c
